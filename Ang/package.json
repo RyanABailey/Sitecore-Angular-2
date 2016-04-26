@@ -2,9 +2,9 @@
   "name": "ang",
   "version": "0.0.0",
   "description": "Ang",
-  "main": "app.js",
+  "main": "main.js",
   "author": {
-    "name": "ryan",
+    "name": "Ryan Bailey",
     "email": "me@ryanbailey.nz"
   },
   "license": "ISC",
